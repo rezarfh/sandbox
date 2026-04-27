@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-27 13:01 (IR Time)
+- 📥 **[XAMPP-Lite-8.5.5.1-x64-no-php-man-Setup.exe](https://github.com/rezarfh/sandbox/raw/main/dl/XAMPP-Lite-8.5.5.1-x64-no-php-man-Setup.exe)**
+
+
 ### 📅 2026-04-27 12:31 (IR Time)
 - 📥 **[php-8.5.5-Win32-vs17-x64.zip](https://github.com/rezarfh/sandbox/raw/main/dl/php-8.5.5-Win32-vs17-x64.zip)**
 
