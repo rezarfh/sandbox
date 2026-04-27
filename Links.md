@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-27 23:32 (IR Time)
+- 📥 **[phpMyAdmin-5.2.3-all-languages.zip](https://github.com/rezarfh/sandbox/raw/main/dl/phpMyAdmin-5.2.3-all-languages.zip)**
+
+
 ### 📅 2026-04-27 23:27 (IR Time)
 - 📥 **[mysql-9.7.0-winx64.zip.zip](https://github.com/rezarfh/sandbox/raw/main/dl/mysql-9.7.0-winx64.zip.zip)**
 - 📥 **[mysql-9.7.0-winx64.zip.z01](https://github.com/rezarfh/sandbox/raw/main/dl/mysql-9.7.0-winx64.zip.z01)**
