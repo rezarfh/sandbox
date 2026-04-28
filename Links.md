@@ -2,6 +2,11 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-29 00:21 (IR Time)
+- 📥 **[avoVPN.2.5.u.apk.zip](https://github.com/rezarfh/sandbox/raw/main/dl/avoVPN.2.5.u.apk.zip)**
+- 📥 **[avoVPN.2.5.u.apk.zip](https://github.com/rezarfh/sandbox/raw/main/dl/avoVPN.2.5.u.apk.zip)**
+
+
 ### 📅 2026-04-27 23:32 (IR Time)
 - 📥 **[phpMyAdmin-5.2.3-all-languages.zip](https://github.com/rezarfh/sandbox/raw/main/dl/phpMyAdmin-5.2.3-all-languages.zip)**
 
